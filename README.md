@@ -2,3 +2,4 @@
 [![Readme Repo](https://github-readme-stats.vercel.app/api?username=yuansheng1549&show_icons=true&theme=default_repocard&locale=en)](https://bit.ly/3qkZHAR)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://bit.ly/3qkZHAR)
 [![Readme Card](https://discord.c99.nl/widget/theme-2/715192025657376820.png)](https://bit.ly/3qkZHAR)
+[<img src="https://readme-spotify-status-gules.vercel.app/" alt="Your alt what" width="350" />](https://readme-spotify-status-gules.vercel.app/api/run-spotify-status)
